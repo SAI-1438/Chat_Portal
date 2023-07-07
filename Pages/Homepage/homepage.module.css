@@ -1,0 +1,23 @@
+.main{
+    width:100vw;
+    height:100vh;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.info{
+    width:60vw;
+    height:90vh;
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    gap:20px;
+}
+.login_btn{
+    height: 30px;
+    width:150px;
+}
